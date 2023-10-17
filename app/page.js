@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Homepage = () => {
   return (
-<main className=' p-4 bg-violet-50'>
+<main className=' p-4 bg-purple-400'>
 
 </main>
   )
